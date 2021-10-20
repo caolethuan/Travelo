@@ -1,2 +1,2 @@
 # Travelo
-Hello im Thuần
+Hello I'm Thuần
